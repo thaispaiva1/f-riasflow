@@ -1,0 +1,6 @@
+{
+  "name": "FériasFlow - Gestão de Solicitações de Férias",
+  "description": "Sistema completo de solicitação e aprovação de férias para Funcionários, Gerentes e RH com calendário integrado e conexão Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
